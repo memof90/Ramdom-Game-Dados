@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Example App 
 
-![alt text](https://gph.is/g/EGKkGpd)
+![](https://media4.giphy.com/media/SBfqFPhY2pmM80eEXx/giphy.gif)
